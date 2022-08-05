@@ -1,2 +1,2 @@
-# injtysn.github.io
+Дан Форня
 дз на 2 рз
